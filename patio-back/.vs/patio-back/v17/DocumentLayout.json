@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\estudo_c#\\patio-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\model\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\model\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\model\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\model\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\model\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\model\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\infra\\connectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\infra\\connectiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\patio-back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\patio-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|c:\\workspace\\estudo_c#\\patio-back\\patio-back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29880EE7-AEB2-48DF-93C5-AF7DE593470A}|patio-back\\patio-back.csproj|solutionrelative:patio-back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "patio-back\\Model\\Movimentacao.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Movimentacao.cs",
+              "RelativeToolTip": "patio-back\\Model\\Movimentacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:36:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Agendamento.cs",
+              "RelativeDocumentMoniker": "patio-back\\Model\\Agendamento.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Agendamento.cs",
+              "RelativeToolTip": "patio-back\\Model\\Agendamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:35:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\User.cs",
+              "RelativeDocumentMoniker": "patio-back\\Model\\User.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\User.cs",
+              "RelativeToolTip": "patio-back\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:35:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Caminhao.cs",
+              "RelativeDocumentMoniker": "patio-back\\Model\\Caminhao.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Model\\Caminhao.cs",
+              "RelativeToolTip": "patio-back\\Model\\Caminhao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:35:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionDbContext.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Infra\\ConnectionDbContext.cs",
+              "RelativeDocumentMoniker": "patio-back\\Infra\\ConnectionDbContext.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Infra\\ConnectionDbContext.cs",
+              "RelativeToolTip": "patio-back\\Infra\\ConnectionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:03:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\appsettings.json",
+              "RelativeDocumentMoniker": "patio-back\\appsettings.json",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\appsettings.json",
+              "RelativeToolTip": "patio-back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T23:57:21.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patio-back",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.csproj",
+              "RelativeDocumentMoniker": "patio-back\\patio-back.csproj",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.csproj",
+              "RelativeToolTip": "patio-back\\patio-back.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T23:52:37.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "patio-back.http",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.http",
+              "RelativeDocumentMoniker": "patio-back\\patio-back.http",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\patio-back.http",
+              "RelativeToolTip": "patio-back\\patio-back.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-10T23:48:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Program.cs",
+              "RelativeDocumentMoniker": "patio-back\\Program.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Program.cs",
+              "RelativeToolTip": "patio-back\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:47:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "patio-back\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\workspace\\estudo_c#\\patio-back\\patio-back\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "patio-back\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:46:44.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

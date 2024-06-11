@@ -1,0 +1,6 @@
+@patio_back_HostAddress = http://localhost:5211
+
+GET {{patio_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
